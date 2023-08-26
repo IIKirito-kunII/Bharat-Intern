@@ -17,6 +17,6 @@ Feel free to explore the tasks and documents linked above to get a better unders
 
 ## Contact
 
-If you have any questions, suggestions, or would like to connect, feel free to reach out to me at [linkedin.com/in/lavish-kumar-varshney-32b141222].
+If you have any questions, suggestions, or would like to connect, feel free to reach out to me at [ My Linkedin ](https://www.linkedin.com/in/lavish-kumar-varshney-32b141222/)
 
 Looking forward to an enriching internship experience!
