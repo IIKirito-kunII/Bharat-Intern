@@ -21,10 +21,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin feature/your-feature-name`
 5. Submit a pull request.
-
-## Usage
-
-1. Clone the repository:
-
-   ```sh
-   git clone https://github.com/your-username/content-management-tool.git
