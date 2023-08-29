@@ -1,0 +1,103 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    border: solid white 20px;
+    color: #fff;
+}
+
+h1 {
+    font-size: 28px;
+    margin: 10px 0;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+    margin: 10px 0;
+    text-align: center;
+}
+
+#container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#addForm, #articleTable {
+    background-color: #222;
+    padding: 20px;
+    margin-bottom: 40px;
+}
+
+input[type="text"], textarea {
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    border: solid gray;
+    margin-bottom: 10px;
+}
+
+textarea#content {
+    padding-bottom: 200px;
+}
+
+button {
+    padding: 5px 20px;
+    background-color: darkcyan;
+    color: #fff;
+    border: solid black;
+    border-radius: 0px;
+    cursor: pointer;
+}
+
+button.btn-delete {
+    background-color: #f44336;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    color: #fff;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #444;
+}
+
+th {
+    background-color: #111;
+    cursor: pointer;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.article-title {
+    cursor: pointer;
+}
+
+.article-content {
+    display: none;
+    padding: 10px;
+    background-color: #333;
+    white-space: pre;
+    margin-top: 10px;
+}
+.options {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 5px;
+    margin-bottom: 10px;
+}
