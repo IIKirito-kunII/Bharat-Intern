@@ -2,7 +2,7 @@
 
 A simple web-based content management tool for creating and managing articles. This tool allows you to add, edit, and delete articles with associated titles and content. You can also embed images and videos within the articles.
 
-![Screenshot](https://github.com/IIKirito-kunII/Content-Management-Tool/blob/922a082fe08711ca837c7b1fb266b67f0b59e61e/Screenshot%20from%202023-08-20%2014-18-56.png)
+![Screenshot](https://github.com/IIKirito-kunII/Bharat-Intern/blob/2ab0e59e2e9aa0e4b59d7e7e519f6b3e5b41d770/%5B%20Content%20Management%20Tool%20%5D/Screenshot%20from%202023-08-20%2014-18-56.png)
 
 ## Features
 
