@@ -2,6 +2,8 @@
 
 A web application that combines project management functionalities with social media features. It allows users to communicate with each other and assign tasks within a collaborative environment.
 
+![Screenshot](https://github.com/IIKirito-kunII/Bharat-Intern/blob/dc483bff7b450f37acb16e8238d66a310bb7ba58/%5B%20Project%20Management%20Tool%20%5D/Screenshot%20from%202023-08-30%2000-21-04.png)
+
 ## Features
 
 - Task Assignment: Users can assign tasks to others and track their progress.
