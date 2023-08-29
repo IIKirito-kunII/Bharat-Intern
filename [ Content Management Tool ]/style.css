@@ -39,7 +39,7 @@ input[type="text"], textarea
     border: solid gray;
     margin-bottom: 10px;
 }
-textarea#content {padding-bottom: 200px;}
+textarea#content { padding-bottom: 200px; }
 button 
 {
     padding: 5px 20px;
@@ -49,8 +49,8 @@ button
     border-radius: 0px;
     cursor: pointer;
 }
-button.btn-delete {background-color: #f44336;}
-button:hover {opacity: 0.8;}
+button.btn-delete { background-color: #f44336; }
+button:hover { opacity: 0.8; }
 table
 {
     width: 100%;
