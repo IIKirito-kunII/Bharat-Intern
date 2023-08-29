@@ -1,0 +1,90 @@
+body 
+{
+    background-color: black;
+    color: gray;
+    font-family: Arial, sans-serif;
+    overflow-y: auto; 
+}
+section 
+{
+    color: white;
+    border: 10px solid gray;
+    padding: 20px;
+}
+.task-list ul 
+{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.task-list li 
+{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border: 1px solid gray;
+    margin: 20px;
+}
+.task-list li:hover { border: 5px solid darkgray; }
+h1
+{
+    color: lightgoldenrodyellow;
+    text-align: center;                             
+}
+.task-info h4 
+{
+    margin: 0;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 5px;
+    color: peru;
+}
+.task-due-date, .task-assigne 
+{
+    font-size: 14px;
+    color: gray;
+    margin-bottom: 5px;
+}
+.create-task input, .create-task select, .create-task textarea 
+{
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid pink;
+    width: 100%;
+    background-color: lightgray;
+}
+.create-task textarea { height: 100px; }
+.create-task input[type="submit"] 
+{
+    padding: 10px;
+    background-color: black;
+    color: gray;
+    border: solid gray;
+    cursor: pointer;
+}
+.create-task input[type="submit"]:hover { background-color: darkblue; }
+.comment-list { margin-top: 10px; }
+.comment 
+{
+    font-size: 12px;
+    color: gray;
+}
+.completed-task-list { margin-top: 30px; }
+.task-management { display: flex; }
+.left-section,.right-section 
+{
+    flex: 1;
+    padding: 20px;
+    border: 5px solid gray;
+    margin-left: 5px;
+}
+.left-section { flex: 3; }
+.chat-messages 
+{
+height: 400px; 
+overflow-y: auto; 
+background-color: lightgray;
+margin-bottom: 15px;
+padding: 15px; 
+color: black;
+}
